@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Tylko konsumenci",
+    "Projects": [
+      {
+        "Path": "Konsument 1\\Konsument 1.csproj",
+        "Action": "Start",
+        "DebugTarget": "Konsument 1"
+      },
+      {
+        "Path": "Konsument 2\\Konsument 2.csproj",
+        "Action": "Start",
+        "DebugTarget": "Konsument 2"
+      }
+    ]
+  }
+]

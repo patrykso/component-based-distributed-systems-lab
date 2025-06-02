@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "ALL",
+    "Projects": [
+      {
+        "Path": "Sklep\\Sklep.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Magazyn\\Magazyn.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Klient 1\\Klient 1.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Klient 2\\Klient 2.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
